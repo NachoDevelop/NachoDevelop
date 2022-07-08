@@ -1,11 +1,13 @@
 
-h1 { text-align: center;
+h1 {
+     text-align: center;
     font-size: 15mm;
     font-family: 'Helvetica';
     color: blue;
 }
 
-b { font-size: 10mm;
+b { 
+    font-size: 10mm;
     color: darkorchid;
 }
 
@@ -14,7 +16,6 @@ p {
 }
 
 .imagen { 
-        
-         border: 10px solid black;
+          border: 10px solid black;
 }
 
